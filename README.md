@@ -5,6 +5,7 @@
 - registration system & Login by GITHUB
 - multi lang (navbar only)
 - API for CRUD operation by UserToken
+- Mail sending by register (mailtrap)
 - books CRUD
 - categories CRUD
 - user notes
